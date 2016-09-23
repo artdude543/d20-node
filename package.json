@@ -1,0 +1,20 @@
+{
+  "name": "d20-node",
+  "version": "1.0.1",
+  "description": "d20 dice roll simulation.",
+  "author": "Kieron Richardson <artdude543@hotmail.co.uk>",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artdude543/d20-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/artdude543/d20-node/issues"
+  },
+  "keywords": [
+    "d20",
+    "dice"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+# Node / NPM
+node_modules/
+
+# Built files
+dist/
+
+# Other
+.idea
